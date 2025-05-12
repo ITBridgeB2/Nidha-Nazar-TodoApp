@@ -1,0 +1,40 @@
+/* Existing form styles */
+.task-form {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 40px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .task-form h2 {
+    text-align: center;
+  }
+  
+  .task-input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 8px;
+  }
+  
+  .task-button {
+    background: #3b82f6;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  /* 🔵 Background for full page */
+  .task-form-page {
+    min-height: 100vh;
+    background-color: #0a0917;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
